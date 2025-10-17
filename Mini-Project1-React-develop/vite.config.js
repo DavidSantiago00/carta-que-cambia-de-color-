@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Mini-Project1-React/', // 👈 importante: debe tener slash inicial y final
+  base: '/carta-que-cambia-de-color-/', // 👈 importante: debe tener slash inicial y final
 })
